@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Open in Firefox via Local Server",
+  "version": "1.0",
+  "description": "Sends clicked links to a local Python server to open them in Firefox.",
+  "permissions": [
+    "contextMenus"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
