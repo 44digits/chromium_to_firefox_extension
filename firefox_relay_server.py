@@ -12,7 +12,6 @@ extension to request that a link be opened externally.
 import http.server
 import json
 import subprocess
-import urllib.parse
 
 PORT = 18080
 
