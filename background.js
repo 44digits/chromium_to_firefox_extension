@@ -1,3 +1,7 @@
+// Adds an "Open link in Firefox" context-menu action.
+// When selected, the link URL is sent to the local relay server.
+// Date: 2026-10-13
+// User: 44digits
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
     id: "openInFirefox",
