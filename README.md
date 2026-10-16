@@ -1,5 +1,9 @@
 # Chromium-to-Firefox extension
 
+![License](https://img.shields.io/github/license/44digits/chromium_to_firefox_extension)
+![Platform](https://img.shields.io/badge/platform-Ubuntu%20%28Snap%29-E95420)
+![Browsers](https://img.shields.io/badge/browsers-Chromium%20%7C%20Firefox-blue)
+
 This extension adds a right-click option for opening links from Chromium in Firefox.
 
 It was created to keep Google applications (such as Gmail and Gemini) in Chromium while
